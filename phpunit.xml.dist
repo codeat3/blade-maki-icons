@@ -5,8 +5,13 @@
          colors="true"
 >
     <testsuites>
-        <testsuite name="Icons Test Suite">
+        <testsuite name="Blade Google Material Design Icons Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">src/</directory>
+        </whitelist>
+    </filter>
 </phpunit>
