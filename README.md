@@ -14,9 +14,9 @@
     <img src="https://img.shields.io/packagist/dt/codeat3/blade-maki-icons" alt="Total Downloads">
 </a>
 
-A package to easily make use of [Blade Maki Icons](https://github.com/artcoholic/akar-icons) in your Laravel Blade views.
+A package to easily make use of [Blade Maki Icons](https://github.com/mapbox/maki) in your Laravel Blade views.
 
-For a full list of available icons see [the SVG directory](resources/svg) or preview them at [akaricons.com](https://akaricons.com/).
+For a full list of available icons see [the SVG directory](resources/svg) or preview them at [labs.mapbox.com/maki-icons](https://labs.mapbox.com/maki-icons/).
 
 ## Requirements
 
