@@ -2,7 +2,7 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/blade-ui-kit/blade-heroicons/compare/1.1.0...main)
+## [Unreleased](https://github.com/codeat3/blade-maki-icons/compare/1.1.0...main)
 
 ## 1.1.0 (2021-07-29)
 Synced with the latest commit [#3fcab0716da48548b5156c24a3ff02a50fba396f](https://github.com/mapbox/maki/commit/3fcab0716da48548b5156c24a3ff02a50fba396f)
