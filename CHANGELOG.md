@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-maki-icons/compare/1.3.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-maki-icons/compare/1.4.0...HEAD)
+
+## [1.4.0](https://github.com/codeat3/blade-maki-icons/compare/1.3.0...1.4.0) - 2022-03-28
+
+## What's Changed
+
+- chore: update icons with the latest commit [149ff55](https://github.com/mapbox/maki/commit/149ff55cb95a19072a473df3ab0997e5223f4798) by @github-actions in https://github.com/codeat3/blade-maki-icons/pull/6
+
+**Full Changelog**: https://github.com/codeat3/blade-maki-icons/compare/1.3.0...1.4.0
 
 ## [1.3.0](https://github.com/codeat3/blade-maki-icons/compare/1.2.0...1.3.0) - 2022-02-04
 
