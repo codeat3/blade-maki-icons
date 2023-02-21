@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-maki-icons/compare/1.5.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-maki-icons/compare/1.6.0...HEAD)
+
+## [1.6.0](https://github.com/codeat3/blade-maki-icons/compare/1.5.0...1.6.0) - 2023-02-21
+
+### What's Changed
+
+- chore: update icons with the latest commit v9fa4d9df8ba25ce84190ecfb237a14d807e7dfbc by @github-actions in https://github.com/codeat3/blade-maki-icons/pull/8
+
+**Full Changelog**: https://github.com/codeat3/blade-maki-icons/compare/1.5.0...1.6.0
 
 ## [1.5.0](https://github.com/codeat3/blade-maki-icons/compare/1.4.0...1.5.0) - 2023-02-18
 
