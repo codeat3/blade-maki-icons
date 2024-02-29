@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-maki-icons/compare/1.7.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-maki-icons/compare/1.8.0...HEAD)
+
+## [1.8.0](https://github.com/codeat3/blade-maki-icons/compare/1.7.0...1.8.0) - 2024-02-29
+
+### What's Changed
+
+* fix tests by @swapnilsarwe in https://github.com/codeat3/blade-maki-icons/pull/14
+* laravel 11 support by @swapnilsarwe in https://github.com/codeat3/blade-maki-icons/pull/15
+
+**Full Changelog**: https://github.com/codeat3/blade-maki-icons/compare/1.7.0...1.8.0
 
 ## [1.7.0](https://github.com/codeat3/blade-maki-icons/compare/1.6.0...1.7.0) - 2023-04-25
 
